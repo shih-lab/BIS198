@@ -1,0 +1,39 @@
+# ##############################################################################
+# Authors List
+# ------------------------------------------------------------------------------
+# This YAML data file contains entry for each author involved in the work
+# This YAML data file contains information for each author of the work. The 
+# author list will be generated in the order in which they are listed below. 
+# You can  add additional fields to each person, but these will not show up
+# automatically and must then be included manually in the Liquid template code 
+# of the `page01_people.md` file.
+# ##############################################################################
+- author:
+  name: Patrick Shih
+  title: Instructor
+  img: patrick_shih.jpg
+  other_info:
+     Email Address: "pmshih@ucdavis.edu"
+     Office Hours: Wednesdays, 8:00 – 9:00 via Zoom (other times by appointment)
+
+- author:
+  name: Kasey Markel
+  title: Teaching Assistant
+  img: kasey_markel.jpg
+  other_info:
+     Email Address: "kamarkel@ucdavis.edu"
+     Office Hours: Tuesdays 3:00 – 4:00, Room 250 Briggs Hall
+
+- author:
+  name: Mitchell Thompson
+  title: Lab Instructor
+  img: mitchell_thompson.jpg
+  other_info:
+     Email Address: "mthompson@lbl.gov"
+
+- author:
+  name: Andy Zhou
+  title: Lab Instructor
+  img: andy_zhou.jpg
+  other_info:
+     Email Address: "andyzhou@lbl.gov"

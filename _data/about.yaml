@@ -1,0 +1,73 @@
+# ##############################################################################
+# ABOUT
+# ------------------------------------------------------------------------------
+# This data file contains all information that will be displayed on the home
+# page of your website. The fields `title` and `authors` are necessary. These
+# keys cannot be changed or they will not be displayed on the website. 
+#
+# The remainder of the fileds can be changed to fit your needs. The field name
+# (e.g. abstract, summary, etc) Will appear with as H2 headings on the website.
+# The content below will appear 
+
+title: >
+  Systems and Synthetic Biology Lab
+authors: >
+  Requirements: BIS101; (MCB 121 or MCB 161 or PLB 113); or Consent of Instructor.
+
+Course Email: >
+  Accessed via [UC-Davis Canvas site](https://canvas.ucdavis.edu)
+
+Course Description: >
+  Understanding design principles to engineer biological systems. 
+  Emphasis on genetic circuits, transcriptional regulation, metabolic engineering, and genome engineering. 
+  Material will also cover applications of recent biotechnological/synthetic biology advances.
+
+Learning Objectives: >
+  Systems and synthetic biology focus on defining the parts and principles governing biological systems. 
+  By taking this class, you will learn how design principles apply to biological systems. 
+  Specifically, you will be able to explain:
+    1. Concepts of genetic circuits and gene regulation
+
+    2. Challenges and applications of metabolic engineering 
+    
+    3. Design principles in engineering cellular systems
+    
+    4. Technologies that enable metabolic and genome engineering
+
+
+Lecture Schedule: >
+  * Week 1: [What is Synthetic/Systems Biology?](https://www.google.com)
+  
+  * Week 2: [Regulating gene expression: LacI, TetR](https://www.google.com)
+
+  * Week 3: [Systems-level (global) view of transcription](https://www.google.com)
+
+  * Week 4: [Transcriptional Networks](https://www.google.com)
+
+  * Week 5: [Guest Lecture by Charles Denby (Berkeley Yeast)](https://www.google.com)
+  
+  * Week 6: [High-throughput identification of gene function](https://www.google.com)
+  
+  * Week 7: [Metabolic Engineering](https://www.google.com)
+
+  * Week 8: [Biosensors](https://www.google.com)
+
+  * Week 9: [Applications of Biosensors](https://www.google.com)
+
+  * Week 10: [Guest Lecture by Paul Opgenorth (Invizyne)](https://www.google.com)
+
+Grading: >
+  There will be weekly homework assignments, two labs, and a final project over the course of the quarter. 
+  Students will be required to submit lab writeups. The final project will both consist of a written and presentation portion. 
+  Final project topic must be confirmed by Professor Shih by Week 7, and students will be expected to work with the TA early on to draft up topic ideas. 
+  
+  
+  Grade Weighting:
+  
+  * Homework: 25%
+  
+  * Lab 1 writeup: 25%
+  
+  * Lab 2 writeup: 25%
+  
+  * Final project: 25% (PowerPoint presentation and written report)
