@@ -1,5 +1,5 @@
-title: BIS 198
-description: # this means to ignore newlines until "baseurl:"
+title: BIS198
+description: > # this means to ignore newlines until "baseurl:"
   Systems and Synthetic Biology Lab
 
 permalink: ':title/' # This declares the root of your website and shouldn't be touched.
