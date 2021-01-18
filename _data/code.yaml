@@ -1,8 +1,7 @@
 - script:
-  name: script1.py
+  name: Lab1_Intro-to-colab.ipynb 
   desc: >
-    Super fancy script which calcualate some complicated stuff with
-    well-documented code.
+    Introductory lab demonstrating python and colaboratory basics
 - script:
   name: script2.py
   desc: >
