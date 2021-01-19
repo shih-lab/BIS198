@@ -8,17 +8,10 @@ sidebar: true
 
 ---
 
-To run a lab on Google colaboratory:
-
-1. Download the `.ipynb` file for the lab `right-click` --> `save link as` 
-2. Open a new instance of Colaboratory ([link here](https://colab.research.google.com/notebooks/intro.ipynb))
-3. Goto `File` --> `Upload Notebook`
-4. Click `Browse` and upload the downloaded `.ipynb` lab to run your own private instance of the notebook
-
 {% if site.data.code %}
 ## Labs 
 {% for script in site.data.code %}
-* [**{{script.name}}**]({{site.url}}/{{site.baseurl}}/software/{{script.name}})
+* [**{{script.name}}**](https://colab.research.google.com/github/shih-lab/BIS198/blob/master/software/{{script.name}})
   \| {{script.desc}}
 {% endfor %}
 {% endif %}
