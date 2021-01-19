@@ -2,9 +2,3 @@
   name: Lab1_Intro-to-colab.ipynb 
   desc: >
     Introductory lab demonstrating python and colaboratory basics
-- script:
-  name: script2.py
-  desc: >
-    Yet another script that does something-or-other.
-
-
