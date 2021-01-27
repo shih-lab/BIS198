@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Labs
-img: code.jpg # Add image post (optional)
+img: course-header.png # Add image post (optional)
 permalink: labs
 sidebar: true
 ---

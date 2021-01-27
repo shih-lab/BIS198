@@ -2,7 +2,7 @@
 layout: page
 title: Course Info
 description: Information about the project, website, and links to the paper and SI
-img: course_header.png # Add image post (optional)
+img: course-header.png # Add image post (optional)
 caption:
 permalink: index.html
 sidebar: true

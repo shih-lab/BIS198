@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Lectures
-img: course_header.png # Add image post (optional)
+img: course-header.png # Add image post (optional)
 permalink: lectures
 sidebar: true
 ---
