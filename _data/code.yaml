@@ -1,6 +1,5 @@
 - script:
   name: Lab1.ipynb 
-  label: >
-      Google Colaboratory Tutorial
+  label: Google Colaboratory Tutorial
   desc: >
     Introductory lab demonstrating python and colaboratory basics
