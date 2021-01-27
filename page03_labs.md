@@ -11,7 +11,7 @@ sidebar: true
 {% if site.data.code %}
 ## Labs 
 {% for script in site.data.code %}
-* [**{{script.name}}**](https://colab.research.google.com/github/shih-lab/BIS198/blob/main/software/{{script.name}})
+* [**{{script.label}}**](https://colab.research.google.com/github/shih-lab/BIS198/blob/main/software/{{script.name}})
   \| {{script.desc}}
 {% endfor %}
 {% endif %}
