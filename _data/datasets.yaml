@@ -4,3 +4,10 @@
   filetype: ".csv"
   link: sigE-consensus.csv
   filesize: "4.7 kB"
+  
+- dataset:
+  storage: local
+  name: RNA-seq from GSE59397 
+  filetype: ".xlsx"
+  link: ecolirnaseq.xlsx 
+  filesize: "1.0 MB"
