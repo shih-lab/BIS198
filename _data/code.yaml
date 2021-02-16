@@ -3,3 +3,9 @@
   label: Google Colaboratory Tutorial
   desc: >
     Introductory lab demonstrating python and colaboratory basics
+
+- script:
+  name: Lab2.ipynb 
+  label: Promoters, Polymerase, Position Weight Matricies 
+  desc: >
+    Using E.coli RNA-seq data, we will explore the biological function of promoters
