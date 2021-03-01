@@ -9,3 +9,9 @@
   label: Promoters, Polymerase, Position Weight Matricies 
   desc: >
     Using E.coli RNA-seq data, we will explore the biological function of promoters
+
+- script:
+  name: Lab2-2.ipynb 
+  label: Modeling gene expression and regulation  
+  desc: >
+      Constructing and exploring models of constitutive expression, repressors, and negative autoregulation.
